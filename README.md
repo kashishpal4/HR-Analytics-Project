@@ -49,8 +49,10 @@ An end-to-end HR Analytics case study using sample dataset reflecting real-world
 ### 🧭 Page 2 – Workforce Overview
 ![Workforce Dashboard](workforce-analysis-dashboard.png)
 
-> ***🛠️ Both dashboards support interactive drill-down functionality for deeper insights.***
-> 
+### 📌 Interactive Features
+
+> 🛠️ Both dashboards include **drill-down capabilities**, **slicers for dynamic filtering**, and **page navigation buttons** for smooth transitions between views.
+
 > Dashboards built using Power BI with custom DAX measures to track attrition rate, salary trends, employee demographics, and more.
 
 
