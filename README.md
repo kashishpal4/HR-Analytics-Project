@@ -78,9 +78,11 @@ An end-to-end HR Analytics case study using sample dataset reflecting real-world
 
 ---
 
-## 📫 Contact
+> ## 📫 Contact
 
 * [LinkedIn – Kashish Pal](https://linkedin.com/in/kashishpal04)
 * [Email: kashishpal2020@gmail.com](mailto:kashishpal2020@gmail.com)
+
+* > 🛠️ Created bt Kashish Pal|July 2025|Please credit if reused.
 
 
