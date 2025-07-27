@@ -1,4 +1,5 @@
 -- HR Analytics Case Study - SQL Script
+-- Created By: Kashish Pal | July 2025
 -- This file contains SQL queries used to solve various business and data quality problems.
 -- Each query is preceded by a short description of the problem.
 -- Results and insights are documented in the final project report and Power BI dashboard.
